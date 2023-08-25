@@ -7,3 +7,9 @@ hs_err_pid*
 # IDE excludes
 .idea
 *.iml
+
+# macos
+.DS_Store
+
+# jupyter checkpoints
+.ipynb_checkpoints
